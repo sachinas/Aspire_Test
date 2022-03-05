@@ -1,0 +1,450 @@
+03/04/2022 20:44:56.914 IST INFO  (report.Reporter:>>>startTestCase:[21])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+03/04/2022 20:45:10.515 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 20:45:10.729 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 20:45:10.729 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 20:45:10.730 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 20:45:14.668 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyInventoryFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 20:45:15.015 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 20:45:15.254 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 20:45:23.922 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Inventory
+----------------------------------------------------------------
+03/04/2022 20:45:27.102 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 20:45:30.321 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 20:45:33.531 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:45:33.903 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data MyProduct372
+----------------------------------------------------------------
+03/04/2022 20:45:37.198 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:45:40.377 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Update Quantity
+----------------------------------------------------------------
+03/04/2022 20:45:43.593 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:45:44.079 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 20:45:47.254 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:45:55.532 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyInventoryFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 20:46:03.607 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 20:46:03.607 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 20:46:03.608 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 20:46:03.608 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 20:46:06.931 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyManufacturingFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 20:46:07.088 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 20:46:07.234 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 20:46:16.224 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 20:46:19.418 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:46:19.555 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data MyProduct372
+----------------------------------------------------------------
+03/04/2022 20:46:22.051 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 20:46:25.198 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:46:28.687 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 20:46:31.890 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement MARK AS DONE
+----------------------------------------------------------------
+03/04/2022 20:46:43.355 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 20:46:43.356 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyManufacturingFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 20:46:51.105 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 20:46:51.105 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 20:46:51.106 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 20:46:51.106 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 20:46:54.234 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyProductState()  ****************************
+----------------------------------------------------------------
+03/04/2022 20:46:54.388 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 20:46:54.530 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 20:47:02.871 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 20:47:07.189 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyProductState() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 20:47:11.321 IST INFO  (report.Reporter:>>>endTestCase:[25]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+03/04/2022 21:30:52.623 IST INFO  (report.Reporter:>>>startTestCase:[21])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+03/04/2022 21:30:59.563 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:30:59.930 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:30:59.956 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:30:59.957 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:31:03.922 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyInventoryFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:31:04.163 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:31:04.283 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:31:12.164 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Inventory
+----------------------------------------------------------------
+03/04/2022 21:31:15.324 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:31:18.497 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:31:21.696 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:31:21.859 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data MyProduct817
+----------------------------------------------------------------
+03/04/2022 21:31:25.055 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:31:28.204 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Update Quantity
+----------------------------------------------------------------
+03/04/2022 21:31:31.351 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:31:31.746 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:31:34.904 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:31:43.078 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyInventoryFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:31:46.691 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:31:46.691 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:31:46.692 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:31:46.692 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:31:49.835 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyManufacturingFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:31:49.938 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:31:50.036 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:31:57.940 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:32:01.183 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:32:01.288 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data MyProduct817
+----------------------------------------------------------------
+03/04/2022 21:32:03.737 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:32:06.882 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:32:10.277 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:32:13.457 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement MARK AS DONE
+----------------------------------------------------------------
+03/04/2022 21:32:24.821 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:32:24.822 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyManufacturingFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:32:32.163 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:32:32.163 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:32:32.164 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:32:32.164 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:32:35.384 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyProductState()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:32:35.479 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:32:35.580 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:32:43.218 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:32:47.045 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyProductState() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:32:47.177 IST INFO  (report.Reporter:>>>endTestCase:[25]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+03/04/2022 21:33:55.947 IST INFO  (report.Reporter:>>>startTestCase:[21])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+03/04/2022 21:34:00.171 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:34:00.261 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:34:00.261 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:34:00.262 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:34:03.550 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyInventoryFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:34:03.734 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:34:03.855 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:34:12.100 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Inventory
+----------------------------------------------------------------
+03/04/2022 21:34:15.246 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:34:18.398 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:34:21.559 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:34:21.716 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data SahinProduct882
+----------------------------------------------------------------
+03/04/2022 21:34:24.885 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:34:28.049 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Update Quantity
+----------------------------------------------------------------
+03/04/2022 21:34:31.182 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:34:31.660 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:34:34.797 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:34:42.998 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyInventoryFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:34:46.512 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:34:46.513 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:34:46.513 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:34:46.514 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:34:49.799 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyManufacturingFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:34:49.902 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:34:50.008 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:34:57.865 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:35:01.099 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:35:01.210 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data SahinProduct882
+----------------------------------------------------------------
+03/04/2022 21:35:03.660 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:35:06.796 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:35:10.223 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:35:13.400 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement MARK AS DONE
+----------------------------------------------------------------
+03/04/2022 21:35:24.799 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:35:24.800 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyManufacturingFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:35:32.312 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:35:32.312 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:35:32.313 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:35:32.313 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:35:35.566 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyProductState()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:35:35.671 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:35:35.767 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:35:44.190 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:35:47.619 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyProductState() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:35:47.728 IST INFO  (report.Reporter:>>>endTestCase:[25]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+03/04/2022 21:37:57.719 IST INFO  (report.Reporter:>>>startTestCase:[21])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+03/04/2022 21:38:01.963 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:38:02.039 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:38:02.040 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:38:02.040 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:38:05.374 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyInventoryFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:38:05.515 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:38:05.626 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:38:13.913 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Inventory
+----------------------------------------------------------------
+03/04/2022 21:38:17.075 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:38:20.229 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:38:23.379 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:38:23.549 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data SahinProduct057
+----------------------------------------------------------------
+03/04/2022 21:38:26.752 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:38:29.910 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Update Quantity
+----------------------------------------------------------------
+03/04/2022 21:38:33.044 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:38:33.438 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:38:36.603 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:38:44.760 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyInventoryFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:38:52.114 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:38:52.114 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:38:52.115 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:38:52.115 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:38:55.406 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyManufacturingFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:38:55.521 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:38:55.642 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:39:04.335 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:39:07.523 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:39:07.648 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data SahinProduct057
+----------------------------------------------------------------
+03/04/2022 21:39:10.088 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:39:13.208 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:39:16.798 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 11
+----------------------------------------------------------------
+03/04/2022 21:39:19.962 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement MARK AS DONE
+----------------------------------------------------------------
+03/04/2022 21:39:31.378 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:39:31.379 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyManufacturingFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:39:35.115 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:39:35.115 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:39:35.116 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:39:35.116 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:39:38.251 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyProductState()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:39:38.345 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:39:38.440 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:39:46.649 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:39:50.621 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyProductState() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:39:50.742 IST INFO  (report.Reporter:>>>endTestCase:[25]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
+03/04/2022 21:49:09.002 IST INFO  (report.Reporter:>>>startTestCase:[21])  Execution of Test Case ::*** Test Class Test started ***  has started
+----------------------------------------------------------------
+03/04/2022 21:49:14.489 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:49:14.655 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:49:14.656 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:49:14.656 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:49:18.508 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyInventoryFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:49:18.679 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:49:18.784 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:49:26.821 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Inventory
+----------------------------------------------------------------
+03/04/2022 21:49:29.969 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:49:33.116 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Products
+----------------------------------------------------------------
+03/04/2022 21:49:36.279 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:49:36.455 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data SahinProduct810
+----------------------------------------------------------------
+03/04/2022 21:49:39.648 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:49:42.828 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Update Quantity
+----------------------------------------------------------------
+03/04/2022 21:49:45.967 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:49:46.371 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 15
+----------------------------------------------------------------
+03/04/2022 21:49:49.503 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:49:57.651 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyInventoryFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:50:01.782 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:50:01.783 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:50:01.784 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:50:01.784 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:50:05.137 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyManufacturingFeature()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:50:05.236 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:50:05.366 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:50:13.916 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:50:17.097 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:50:17.226 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data SahinProduct810
+----------------------------------------------------------------
+03/04/2022 21:50:19.676 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 15
+----------------------------------------------------------------
+03/04/2022 21:50:22.835 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:50:26.233 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data 15
+----------------------------------------------------------------
+03/04/2022 21:50:29.371 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement MARK AS DONE
+----------------------------------------------------------------
+03/04/2022 21:50:40.776 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement 
+----------------------------------------------------------------
+03/04/2022 21:50:40.777 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyManufacturingFeature() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:50:44.501 IST INFO  (report.Reporter:>>>pass:[40]) Get Brower Details
+----------------------------------------------------------------
+03/04/2022 21:50:44.501 IST INFO  (report.Reporter:>>>pass:[40]) WINDOWS
+----------------------------------------------------------------
+03/04/2022 21:50:44.501 IST INFO  (report.Reporter:>>>pass:[40]) 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:50:44.502 IST INFO  (report.Reporter:>>>pass:[40]) OS = WINDOWS, Browser = chrome 99.0.4844.51
+----------------------------------------------------------------
+03/04/2022 21:50:47.615 IST INFO  (report.Reporter:>>>onTestStart:[88]) **************************** Running Test Method verifyProductState()  ****************************
+----------------------------------------------------------------
+03/04/2022 21:50:47.706 IST INFO  (report.Reporter:>>>pass:[40]) Entered Test Data user@aspireapp.com
+----------------------------------------------------------------
+03/04/2022 21:50:47.795 IST INFO  (report.Reporter:>>>pass:[40]) Entered password ************ 
+----------------------------------------------------------------
+03/04/2022 21:50:56.039 IST INFO  (report.Reporter:>>>pass:[40]) Click on WebElement Manufacturing
+----------------------------------------------------------------
+03/04/2022 21:50:59.452 IST INFO  (report.Reporter:>>>onTestSuccess:[94]) **************************** Executed verifyProductState() Test successfully finished ****************************
+----------------------------------------------------------------
+03/04/2022 21:50:59.561 IST INFO  (report.Reporter:>>>endTestCase:[25]) Execution of Test Case :: *** Test Class Test ending *** has ended
+----------------------------------------------------------------
