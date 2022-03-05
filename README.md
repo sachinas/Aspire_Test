@@ -2,19 +2,55 @@
 
 This is an small assignment project related to 'https://aspireapp.odoo.com' site. 
 Basically to know the functionality and working of the site.
-The assignment is done in Eclipse IDE using Maven Quick-start project. 
--Java selenium + TestNG framework is used for the project. 
+The assignment is done in Eclipse IDE using Maven project. 
+
+Java selenium + TestNG framework is used for the project. 
+
+### ** Prerequisite to execute projects**
+
+Add Maven to the Path variable
+
+Step 1) Download Apache Maven
+First, go to Google search for Maven download and Select  a link from search result "https://maven.apache.org/download.cgi"
+
+Step 2) After the download, unzip the folder and copy it to the folder. (Lets say i have copied to c:\program files\apache-maven-3.8.4).
+
+Step 3) Setting the path of Maven in environment Variables: Search the Environment Variable --> Edit the System Environment variables--> Navigate to Advanced tab --> Environment Variables
+
+		i) MAVEN_HOME : Click New --> Variable Name : MAVEN_HOME , Variable Value: C:\Program Files\apache-maven-3.8.4
+	
+		ii) M2_HOME : Click New --> Variable Name : M2_HOME , Variable Value: C:\Program Files\apache-maven-3.8.4
+	
+		iii) Edit the 'Path' Environment Variable --> %M2_HOME%\bin
+	
+		iv) Go to Command promot  Testing whether Maven is installed: mvn -version
+			Apache Maven 3.8.4 (9b656c72d54e5bacbed989b64718c159fe39b537)
+			Maven home: C:\apache-maven\apache-maven-3.8.4
+			Java version: 17.0.2, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-17.0.2
+			Default locale: en_IN, platform encoding: Cp1252
+			OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
+		
+		If you see the Apache Version details like sample above. Apache Maven is successfully installed.
+
 
 ### **To Run the Project**
-1) ** Import the project to Eclipse**
-<br/> 2) ** Right Click on the project and Select Run as maven clean Test**  Or Go to Commond prompt with respective location and Type mvn clean test
-<br/> 3) ** Right Click on the project and Select Run as maven install**  Or Go to Commond prompt with respective location and type mvn clean install
 
-Project will Execute and Report will generated under the TestRport section refer the "Test-Automaton-Report.html" 
- 
+Step 1 ) Go to Command prompt and go to the respective project location  ( Example for my location c:\users\sachin\git\Aspore_Test)
 
 
-### **Language Used:**
+Step 2 ) Once your in the respective project location, Type Mvn Clean install
+
+Project will execute and it will generate report. 
+
+For Reports Go to "/Sachin_Aspireapp_Test/TestReport/Test-Automaton-Report.html" Open in Chrome browser. 
+
+It generates beautiful HTML reports. We use the extent reports for maintaining logs and also to include the screenshots of failed test cases in the Extent Report.
+
+
+
+### **Project Details**  : 
+
+## **Language Used:**
 Selenium Project using Java language.
 ### **Type of Framework:**
 Page Object Model design pattern with Page Factory.
@@ -43,7 +79,7 @@ Screenshots will be captured and stored in a separate folder and also the screen
 All the historical test data will be kept in an excel/JSON. we pass test data and handle data-driven testing.
 ### **TestNG:**
 Using TestNG for Assertions, Grouping, and Parallel execution.
-### **Execution Test:**
+### **Execution Test:**  ( Another way of Execution) 
 Go to TestNg.xml >> Right Click on TestNg.xml>> Run As TestNg Suite.
 ### **Maven:**
 Using Maven for build, execution, and dependency purpose. Integrating the TestNG dependency in the POM.xml file and running this POM.xml file using Jenkins.
